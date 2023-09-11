@@ -26,18 +26,21 @@ This Bash script is designed to help you compress and organize log files from a 
 [<img align="left" alt="Bash Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
 
 [bash]: https://www.gnu.org/software/bash/
+
   <br><br>
 
 ## Environments Used
 
 - **Red Hat**
 - **Cent OS**
-  <br><br>
+  
+   <br> 
 [<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
 [<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][cent_os]
 
 [red_hat]: https://www.redhat.com/
-[cent_os]: https://www.centos.org/ 
+[cent_os]: https://www.centos.org/
+
 <br><br>
 
 ## Usage
