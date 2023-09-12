@@ -1,6 +1,6 @@
 # Log Compression and Move Script
 
-This Bash script is designed to help you compress and organize log files from a source directory into a destination directory. It offers a user-friendly interface, error handling, and customization options.
+Welcome to the "Log Compression and Move Script." This Bash script simplifies the task of compressing and organizing log files from a source directory to a destination directory
 
 ## Table of Contents
 
