@@ -2,6 +2,16 @@
 
 This Bash script is designed to help you compress and organize log files from a source directory into a destination directory. It offers a user-friendly interface, error handling, and customization options.
 
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Languages and Utilities Used](#languages-and-utilities-used)
+- [Environments Used](#environments-used)
+- [Usage](#usage)
+- [Customization](#customization)
+
+
 ## Features
 
 - **User Interaction:** The script prompts the user for the source directory path and handles cases where the directory does not exist.
