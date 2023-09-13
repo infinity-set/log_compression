@@ -73,3 +73,8 @@ Welcome to the "Log Compression and Move Script." This Bash script simplifies th
 
 - **Security**: Ensure the script is used in a secure environment and does not process sensitive information without appropriate safeguards.
 
+#
+<br>
+
+⬅️ **[Home](https://github.com/infinity-set)**
+
